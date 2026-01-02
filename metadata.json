@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Watermark Remover",
+  "description": "Batch remove watermarks from the bottom-right corner of images using AI, ensuring strictly no modification to the rest of the image.",
+  "requestFramePermissions": []
+}
